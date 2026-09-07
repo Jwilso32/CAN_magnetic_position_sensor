@@ -1,4 +1,5 @@
 AEM PRND Pad CAN messages<br>
+birate = 500k @ 75.0% Sample point <br>
 <p></p>
 idle:<br>
   roller counter on byte 4 from 00h to FFh
