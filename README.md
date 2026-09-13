@@ -1,10 +1,12 @@
+{Document}(https://docs.google.com/document/d/1iVQEeqe8Mrw8ctw65nHvQjXMceao9W3jk10iAKwNPPk/edit?usp=sharing)
+
 AEM PRND Pad CAN messages<br>
 birate = 500k @ 75.0% Sample point <br>
 <p></p>
 idle:<br>
-  roller counter on byte 4 from 00h to FFh
-  ex: 04 1B F9 XX 00 00 FF 21
-  every .1 and 3.874 on rollover
+  roller counter on byte 4 from 00h to FFh <br>
+  ex: 04 1B F9 XX 00 00 FF 21 <br>
+  every .1 and 3.874 on rollover <br>
 Park:<br>
   pressed:  04 1B 01 01 01 21 FF FF <br>
   released: 04 1B 01 01 00 21 FF FF <br>
