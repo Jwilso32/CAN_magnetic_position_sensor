@@ -1,5 +1,5 @@
-(Document){https://docs.google.com/document/d/1iVQEeqe8Mrw8ctw65nHvQjXMceao9W3jk10iAKwNPPk/edit?usp=sharing} <br>
-(Spreadsheet){https://docs.google.com/spreadsheets/d/1hinX-dw1Tz6yedAAWNuDKjFC_5E-4d03QIfywr-umTA/edit?usp=sharing}
+[Document](https://docs.google.com/document/d/1iVQEeqe8Mrw8ctw65nHvQjXMceao9W3jk10iAKwNPPk/edit?usp=sharing) <br>
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1hinX-dw1Tz6yedAAWNuDKjFC_5E-4d03QIfywr-umTA/edit?usp=sharing) <br>
 AEM PRND Pad CAN messages<br>
 birate = 500k @ 75.0% Sample point <br>
 <p></p>
